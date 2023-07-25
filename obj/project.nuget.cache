@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NN+Ty4gL8rgIp8RkHevdkWLY32MZF2HcQyhOUmMPVP79jOB/KB4SN4+RXsX3DpQxjM9Eh6TU+lKmBWCcTrGbzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tavakoli-h\\source\\repos\\AspCoreReact\\AspCoreReact\\AspCoreReact.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tavakoli-h\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\7.0.9\\microsoft.aspnetcore.spaproxy.7.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
